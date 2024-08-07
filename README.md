@@ -73,3 +73,5 @@ git branch -M editing
 git push -u origin editing
 
 ## More Commands
+
+all
