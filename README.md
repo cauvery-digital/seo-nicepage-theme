@@ -71,3 +71,7 @@ git remote add origin https://github.com/cauvery-digital/seo-nicepage-theme.git
 git branch -M editing
 
 git push -u origin editing
+
+## More Commands
+
+all
