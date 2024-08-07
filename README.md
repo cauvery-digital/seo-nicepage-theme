@@ -74,4 +74,4 @@ git push -u origin editing
 
 ## More Commands
 
-all
+all Commands
